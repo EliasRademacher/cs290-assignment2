@@ -41,7 +41,22 @@ form div {
 	padding: 10px
 }
 
-dt:hover  + dd{
+dt:hover  + dd {
 		background-color: purple;
 }
 
+.outer-content {
+	text-align: right;
+	background-color: pink;
+	margin: 20px;
+	padding: 5px;
+	width: 75%;
+}
+
+.inner-content {
+	text-align: center;
+	background-color: #9ce;
+	margin-left: auto;
+    margin-right: auto;
+	width: 75%;
+}
