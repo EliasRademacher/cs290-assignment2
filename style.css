@@ -62,6 +62,7 @@ dt:hover  + dd {
 }
 
 img {
+	float: left;
 	height: 125px;
 	width: 100px;
 }
