@@ -48,7 +48,8 @@ dt:hover  + dd {
 .outer-content {
 	text-align: right;
 	background-color: pink;
-	margin: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	padding: 5px;
 	width: 75%;
 }
